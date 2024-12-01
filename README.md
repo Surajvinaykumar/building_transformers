@@ -22,9 +22,9 @@ The core innovation of the Transformer architecture. Key features:
 
 ### 2. Transformer Block (`TransformerBlock` Class)
 Combines self-attention with feed-forward neural network:
-- Applies layer normalization
-- Includes dropout for regularization
-- Residual connections for improved gradient flow
+- Applies layer normalization.
+- Includes dropout for regularization.
+- Residual connections for improved gradient flow.
 
 ### 3. Encoder (`Encoder` Class)
 Responsible for processing input sequences:
